@@ -4,5 +4,5 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="RemoteClient/RemoteClient.vcxproj" />
-  <Project Path="RemoteCtrl/RemoteCtrl.vcxproj" />
+  <Project Path="RemoteCtrl/RemoteCtrl.vcxproj" Id="5c7ce818-fd1f-469f-a146-9409d33acdd0" />
 </Solution>
